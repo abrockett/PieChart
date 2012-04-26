@@ -1,0 +1,14 @@
+{
+    "name": "PieChart",
+    "className": "CustomApp",
+    "sdk": "2.0p",
+    "javascript": [
+        "App.js",
+        "Chart.js",
+        "PieChart.js",
+        "BarChart.js"
+    ],
+    "css": [
+        "app.css"
+    ]
+}
